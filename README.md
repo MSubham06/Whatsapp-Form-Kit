@@ -2,7 +2,7 @@
 
 Test a WhatsApp number, build an enquiry form around it, export the code.
 
-**[Open the tool](https://msubham06.github.io/wa-link-lab/)** — single file, no build step.
+**[Open the tool](https://msubham06.github.io/wa-link-lab/)** single file, no build step.
 
 ## Use
 
